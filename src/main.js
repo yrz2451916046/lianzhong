@@ -8,10 +8,10 @@ import ElementUI from 'element-ui'
 import locale from 'element-ui/lib/locale/lang/en'
 import '@/assets/css/all.css'
 import 'element-ui/lib/theme-default/index.css'
-// import VueAwesomeSwiper from 'vue-awesome-swiper'
+import VueAwesomeSwiper from 'vue-awesome-swiper'
 
 Vue.use(ElementUI, { locale })
-// Vue.use(VueAwesomeSwiper)
+Vue.use(VueAwesomeSwiper)
 
 Vue.config.productionTip = false
 
