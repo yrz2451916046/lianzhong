@@ -114,10 +114,10 @@ $(function(){
     $('#banner .arrow li').eq(_index).addClass('change').siblings('li').removeClass('change');
   })
   var timer=setInterval(autoPlay,2000);
-  banner.onmouseover=function(){
+  $("#banner").onmouseover=function(){
     clearInterval(timer);
   }
-  banner.onmouseout=function(){
+  $("#banner").onmouseout=function(){
     timer=setInterval(autoPlay,2000);
   }
   $('.left').click(function(){	

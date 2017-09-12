@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: arial, tahoma, 'Microsoft Yahei', '\5b8b\4f53', sans-serif;
 }
 
 ul li {
@@ -15,6 +16,10 @@ a {
 body {
     font-size: 62.5%;
     /*10 ÷ 16 × 100% = 62.5%*/
+}
+
+html {
+    background: rgb(245, 245, 245);
 }
 
 
