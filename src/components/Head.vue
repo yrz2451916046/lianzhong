@@ -3,7 +3,7 @@
     <ul>
         <li class="logo">
             <img src="../assets/image/discover.png" alt="" style="display:block;width:60px;height:60px;float:left;margin-top:10px;">
-            <a href="#" style="font-size:28px;dispaly:block;width:56px;height:28px;margin-top:20px;float:left;color:#475669;">
+            <a href="#" style="font-size:28px;display:block;width:56px;height:28px;margin-top:20px;float:left;color:#475669;">
                 联众
             </a>
         </li>
