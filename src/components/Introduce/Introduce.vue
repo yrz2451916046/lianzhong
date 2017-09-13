@@ -26,7 +26,6 @@
           </div>
         </li>
       </ul>
-      <ul style="display:none;"></ul>
     </div>
   </div>
 </template>
@@ -48,9 +47,17 @@ export default {
   _background: rgb(230, 230, 230);
 }
 .hofu{
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 0px 0px 5px #888888;
 }
 .management{
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 0px 0px 5px #888888;
+}
+.hofu:hover{
+  box-shadow: 0px 0px 30px #888888;
+  transition: box-shadow 0.5s;
+}
+.management:hover{
+  box-shadow: 0px 0px 30px #888888;
+  transition: box-shadow 0.5s;
 }
 </style>

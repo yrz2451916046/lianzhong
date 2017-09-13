@@ -173,7 +173,11 @@
   margin: 0 auto;
   background: #fff;
   float: left;
-  box-shadow:0px 0px 0px #666;
+  box-shadow:0px 0px 5px #666;
+}
+.homepage-class:hover{
+  box-shadow:0px 0px 30px #666;
+  transition: box-shadow 0.5s;
 }
 /* 阿米巴课程里引用过来的 */
 .amibaclass{
@@ -196,7 +200,11 @@
   background: #fff;
   float: left;
   margin-top:20px;
-  box-shadow:0px 0px 0px #666;
+  box-shadow:0px 0px 5px #666;
+}
+.homepage-case:hover{
+  box-shadow:0px 0px 30px #666;
+  transition: box-shadow 0.5s;
 }
 .homepage-course{
   width: 1000px;
@@ -204,7 +212,11 @@
   background: #fff;
   float: left;
   margin-top:20px;
-  box-shadow:0px 0px 0px #666;
+  box-shadow:0px 0px 5px #666;
+}
+.homepage-course:hover{
+  box-shadow:0px 0px 30px #666;
+  transition: box-shadow 0.5s;
 }
 .homepage-news{
   width: 1000px;
@@ -212,7 +224,11 @@
   background: #fff;
   float: left;
   margin-top:20px;
-  box-shadow:0px 0px 0px #666;
+  box-shadow:0px 0px 5px #666;
+}
+.homepage-news:hover{
+  box-shadow:0px 0px 30px #666;
+  transition: box-shadow 0.5s;
 }
 </style>
 

@@ -67,7 +67,7 @@ export default {
   height: 800px;
   background: #fff;
   margin-top: 40px;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 0px 0px 15px #888888;
 }
 .amibaclass{
   width:94%;
