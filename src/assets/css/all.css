@@ -16,9 +16,11 @@ a {
 body {
     font-size: 62.5%;
     /*10 ÷ 16 × 100% = 62.5%*/
+    color: #333;
 }
 
 html {
+    font-family: 'Microsoft Yahei', "Helvetica Neue", Helvetica, Arial, sans-serif, 'Lucida Grande', 'Lucida Sans Unicode', Verdana;
     background: rgb(245, 245, 245);
 }
 
