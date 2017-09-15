@@ -4,9 +4,9 @@
     <div class="course-safe">
       <ul>
         <p style="width:100%;height:34px;background:#475669;font-size:18px;">
-          <i style="display:block;width:6px;height:34px;background:#20A0FF;float:left;"></i>
-          <span style="width:75px;margin-left:10px;line-height:34px;color:#bfcbd9;font-weight:400;float:left;">
-            课程简介
+          <i style="display:block;width:6px;height:34px;background:#1c86d5;float:left;"></i>
+          <span style="width:300px;margin-left:10px;line-height:34px;color:#bfcbd9;font-weight:400;float:left;">
+            课程简介/Course synopsis
           </span>
         </p>
         <li style=""></li>
@@ -25,9 +25,9 @@
       </ul>
       <ul style="">
         <p style="width:100%;height:34px;background:#475669;font-size:18px;">
-          <i style="display:block;width:6px;height:34px;background:#20A0FF;float:left;"></i>
-          <span style="width:75px;margin-left:10px;line-height:34px;color:#bfcbd9;font-weight:400;float:left;">
-            我要报名
+          <i style="display:block;width:6px;height:34px;background:#1c86d5;float:left;"></i>
+          <span style="width:300px;margin-left:10px;line-height:34px;color:#bfcbd9;font-weight:400;float:left;">
+            我要报名/Sign up
           </span>
         </p>
         <li style="width:70%;height:400px;margin:0 auto;font-size:16px;font-weight:400;color:#333;">
@@ -58,6 +58,7 @@ export default {
 .course{
   width: 100%;
   margin-bottom: 40px;
+  margin-top:140px;
   _height:930px;
   _background: rgb(230, 230, 230);
 }

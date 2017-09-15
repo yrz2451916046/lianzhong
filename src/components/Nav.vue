@@ -24,6 +24,10 @@
     height: 100px;
     background: #fff;
     border-bottom: 1px solid #ebebeb;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 5;
 }
 .nav>ul{
     width:1000px;

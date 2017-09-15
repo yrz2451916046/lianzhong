@@ -3,7 +3,7 @@
     <!-- <mainhead></mainhead> -->
     <mainnav></mainnav>
     <router-view></router-view>
-    <!-- <mainfeet></mainfeet> -->
+    <mainfeet></mainfeet>
   </div>
 </template>
 

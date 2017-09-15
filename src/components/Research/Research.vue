@@ -50,6 +50,7 @@ export default {
 .research{
   width: 100%;
   margin-bottom: 40px;
+  margin-top:140px;
   height:930px;
   _background: rgb(230, 230, 230);
 }

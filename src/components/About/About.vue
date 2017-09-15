@@ -39,6 +39,7 @@ export default {
 .about{
   width: 100%;
   height:500px;
+  margin-top:140px;
 }
 .about-safe{
   width: 1000px;
